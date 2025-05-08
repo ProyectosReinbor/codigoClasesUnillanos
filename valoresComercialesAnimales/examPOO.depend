@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1746662764 source:c:\users\sebastian\desktop\exampoo\granja.cpp
+	"granja.h"
+
+1746662530 source:c:\users\sebastian\desktop\exampoo\main.cpp
+	<iostream>
+	"granja.h"
+
+1746663116 c:\users\sebastian\desktop\exampoo\granja.h
+	<vector>
+	"cerdo.h"
+	"ave.h"
+
+1746663238 c:\users\sebastian\desktop\exampoo\cerdo.h
+	"animal.h"
+
+1746663214 c:\users\sebastian\desktop\exampoo\animal.h
+	<iostream>
+
+1746663242 c:\users\sebastian\desktop\exampoo\ave.h
+	<iostream>
+	"animal.h"
+
